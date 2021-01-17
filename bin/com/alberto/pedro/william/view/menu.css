@@ -1,0 +1,8 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#pnlStatuBar {
+	-fx-border-color: rgb(192.0, 192.0, 192.0);
+	-fx-border-insets: 1.0;
+	-fx-border-width: 1.0;
+	-fx-border-style: solid;
+}
